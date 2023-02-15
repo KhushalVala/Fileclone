@@ -26,7 +26,7 @@ python -m pip install mechanize
 
 rm -rf Fileclone
 
-git clone https://github.com/KhushalVala/khushal
+git clone https://github.com/KhushalVala/Fileclone
 
 cd Fileclone
 
