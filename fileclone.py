@@ -6,10 +6,10 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from fileclone32 import Legend
+    from Fileclone32 import Legend
     Legend()
 elif bit == '32bit':
-    from fileclone import Legend
+    from Fileclone import Legend
     Legend()
 else:
     print('\n YOUR DEVICE IS NOT SUPPORT THIS COMMAND')
