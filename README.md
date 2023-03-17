@@ -1,3 +1,4 @@
+EnJoy free command❤😎
 pkg update
 
 pkg upgrade
